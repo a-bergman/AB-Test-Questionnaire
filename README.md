@@ -53,4 +53,5 @@ Because of our failure to reject the null, the advertiser should not proceed wit
 We have two primary concern about the data: the experiment was run for 8 daysonly about 15% of IDs in the data set actually responded meaning that we are missing out on a significant amount of data. 
 
 - We would like to rerun the experiment with a larger number of responses because biases may have been introduced by using a subset;
-- A longer duration would give us a better representation of actual consumer behavior
+- A longer duration would give us a better representation of actual consumer behavior;
+- There seem to be unusual spikes in the experiment day and hour, which suggests to us there may have been an instrumentation error during data collection.
